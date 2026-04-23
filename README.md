@@ -16,7 +16,7 @@
 
 ### 🗄️ Database
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### 🛠️ Tools & Platforms
