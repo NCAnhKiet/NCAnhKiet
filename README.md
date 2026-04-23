@@ -16,7 +16,7 @@
 
 ### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" />
 </p>
 
 ### 🛠️ Tools & Platforms
