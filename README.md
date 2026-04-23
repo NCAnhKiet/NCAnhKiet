@@ -1,16 +1,36 @@
-## Hi there 👋
+## 👋 Hi there, I'm Nguyễn Châu Anh Kiệt
 
-<!--
-**NCAnhKiet/NCAnhKiet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💻 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,bootstrap" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mssql" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=github,postman,vscode,visualstudio" />
+</p>
+
+---
+
+## 📫 Contact
+
+- 📧 Email: your-email@example.com  
+- 🌐 GitHub: https://github.com/your-username  
+
+---
+
+✨ Thanks for visiting my profile!
