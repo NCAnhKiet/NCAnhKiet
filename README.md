@@ -16,7 +16,7 @@
 
 ### 🗄️ Database
 <p>
-  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" />
+  ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 </p>
 
 ### 🛠️ Tools & Platforms
