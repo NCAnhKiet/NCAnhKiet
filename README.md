@@ -28,8 +28,8 @@
 
 ## 📫 Contact
 
-- 📧 Email: your-email@example.com  
-- 🌐 GitHub: https://github.com/your-username  
+- 📧 Email: nguyenchauanhkietdev@gmail.com  
+- 🌐 GitHub: https://github.com/NCAnhKiet  
 
 ---
 
