@@ -1,7 +1,5 @@
 ## 👋 Hi there, I'm Nguyễn Châu Anh Kiệt
 
----
-
 ## 💻 Skills
 
 ### 🌐 Frontend
