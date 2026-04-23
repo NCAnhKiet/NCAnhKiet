@@ -21,7 +21,7 @@
 
 ### 🛠️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=github,postman,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=github,git,postman,vscode,visualstudio" />
 </p>
 
 ---
