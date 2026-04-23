@@ -6,7 +6,7 @@
 
 ### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,bootstrap,vite" />
 </p>
 
 ### ⚙️ Backend
